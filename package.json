@@ -1,6 +1,6 @@
 {
   "name": "react-native-multiple-select-with-web-icon",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "description": "Simple multi-select component for react-native with your custom icons",
   "main": "index.js",
   "scripts": {
