@@ -21,7 +21,6 @@ export interface MultiSelectProps {
     selectedItemIconColor?: string;
     searchIcon?: React.ReactNode;
     closeIcon?: React.ReactNode;
-    checkIcon?:React.ReactNode;
     searchInputPlaceholderText?: string;
     searchInputStyle?: StyleProp<TextStyle>;
     selectText?: string;
@@ -54,6 +53,6 @@ export interface MultiSelectProps {
     noItemsText?: string;
 }
 
-export default class MultiSelect extends React.Component<MultiSelectProps> {
+export default class MultiSelectWebIcon extends React.Component<MultiSelectProps> {
     getSelectedItemsExt: (items: any[]) => React.ReactNode;
 }

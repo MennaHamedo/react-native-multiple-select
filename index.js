@@ -3,6 +3,7 @@
  * Copyright(c) 2017 Mustapha Babatunde Oluwaleke
  * MIT Licensed
  */
-import MultiSelect from './lib/react-native-multi-select';
+import MultiSelectWebIcon from './lib/react-native-multi-select';
+// import MultiSelect from './lib/react-native-multi-select';
 
-export default MultiSelect;
+export default MultiSelectWebIcon;
