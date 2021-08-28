@@ -1,7 +1,7 @@
 {
-  "name": "react-native-multiple-select",
-  "version": "0.5.6",
-  "description": "Simple multi-select component for react-native",
+  "name": "react-native-multiple-select-with-web-icon",
+  "version": "1.0.0",
+  "description": "Simple multi-select component for react-native with your custom icons",
   "main": "index.js",
   "scripts": {
     "precommit": "lint-staged",
