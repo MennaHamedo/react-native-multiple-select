@@ -7,7 +7,7 @@
     "precommit": "lint-staged",
     "test": "jest",
     "lint": "eslint lib/",
-    "publish": "npm publish --access public"
+    "publish": "npm publish"
   },
   "jest": {
     "preset": "jest-react-native"
