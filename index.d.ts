@@ -21,6 +21,8 @@ export interface MultiSelectProps {
     selectedItemIconColor?: string;
     searchIcon?: React.ReactNode;
     closeIcon?: React.ReactNode;
+    checkIcon?: any;
+    arrowLeftIcon?:any;
     searchInputPlaceholderText?: string;
     searchInputStyle?: StyleProp<TextStyle>;
     selectText?: string;
